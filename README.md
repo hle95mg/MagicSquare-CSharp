@@ -4,6 +4,7 @@ This original commit handles only odd Magic Square.
 Test cases were done for 1x1 through 21x21, but the function can handle bigger odd Magic Square.
 
 Example output:
+
  8,1,6
  3,5,7
  4,9,2
